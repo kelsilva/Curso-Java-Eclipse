@@ -4,7 +4,7 @@ public class ProjetoTeste {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-  System.out.println("TESTE FINAL...........EVIANDO.....teste final...terminou em nome de jesus...graças a Deus");
+  System.out.println("TESTE FINAL");
 	}
 
 }
